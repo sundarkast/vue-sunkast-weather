@@ -89,7 +89,7 @@ export const cities =  [
 	{city: 'Sao Paulo', country: 'Brazil', key: 'br'},
 	{city: 'Sarajevo', country: 'Bosnia and Herzegovina', key: 'ba'},				
 	{city: 'Seoul', country: 'South Korea', key: 'kr'},				
-	{city: 'Sidney', country: 'Australia', key: 'au'},
+	{city: 'Sydney', country: 'Australia', key: 'au'},
 	{city: 'Sofia', country: 'Bulgaria', key: 'bg'},
 	{city: 'Stockholm', country: 'Sweden', key: 'se'},	
 	{city: 'Tallinn', country: 'Estonia', key: 'ee'},		
