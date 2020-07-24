@@ -17,9 +17,11 @@ Weather app using Vue.js and Vuex. Weather information in real time using Weathe
 
 - Built using [`vue-cli`](https://github.com/vuejs/vue-cli) (Vue CLI 3)
 
-- Weather information from [Weatherbit API](https://www.weatherbit.io). You need to signup to get a personal free key to start using the API.
+- Weather information from [Weatherbit API](https://www.weatherbit.io). You need to signup to get a personal free key to start using the API. Generated 7/23/2020
 
 - Autocomplete component based on https://alligator.io/vuejs/vue-autocomplete-component/ and https://github.com/paliari/v-autocomplete
+
+- Contact sundarkast@gmail.com
 
 ## Quickstart
 
